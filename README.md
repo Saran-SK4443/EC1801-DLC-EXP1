@@ -118,7 +118,6 @@ and successfully implemented using Verilog HDL.
 
 ## OUTPUT
 <img width="1600" height="847" alt="WhatsApp Image 2026-11-24 at 12 27 18 PM" src="https://github.com/user-attachments/assets/a05aa51b-2b1d-4037-b87f-8ced53b25338" />
-<img width="1600" height="787" alt="WhatsApp Image 2026-11-24 at 12 27 18 PM (1)" src="https://github.com/user-attachments/assets/d7753e40-d57d-4ebe-a45c-8bb3376686b0" />
 
 
 
